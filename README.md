@@ -10,3 +10,6 @@ Q4) Merge sort. (this is the basic for inversion count).
 
 Q5) For an array, inversion count indicates how far (or close) the array is from being sorted. If array is already sorted then the inversion count is 0. If an array     is sorted in the reverse order then the inversion count is the maximum. 
     Formally, two elements a[i] and a[j] form an inversion if a[i] > a[j] and i < j.
+    
+Q6) Given two integer arrays A1[ ] and A2[ ] of size N and M respectively. Sort the first array A1[ ] such that all the relative positions of the elements in the       first array are the same as the elements in the second array A2[ ].
+    Note: If elements are repeated in the second array, consider their first occurance only.
