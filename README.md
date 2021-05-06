@@ -13,3 +13,7 @@ Q5) For an array, inversion count indicates how far (or close) the array is from
     
 Q6) Given two integer arrays A1[ ] and A2[ ] of size N and M respectively. Sort the first array A1[ ] such that all the relative positions of the elements in the       first array are the same as the elements in the second array A2[ ].
     Note: If elements are repeated in the second array, consider their first occurance only.
+    
+Q7) Given arrival and departure times of all trains that reach a railway station. Find the minimum number of platforms required for the railway station so that no       train is kept waiting.
+
+        Consider that all the trains arrive on the same day and leave on the same day. Arrival and departure time can never be the same for a train but we can have         arrival time of one train equal to departure time of the other. At any given instance of time, same platform can not be used for both departure of a train           and arrival of another train. In such cases, we need different platforms,
